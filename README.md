@@ -42,7 +42,7 @@ The CSS styles are included within a `<style>` tag in the `<head>` section of th
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Tamiko-n/Login-SignUp-Form
     ```
 2. **Open the HTML File**:
     Open the `index.html` file in your web browser to view and interact with the form.

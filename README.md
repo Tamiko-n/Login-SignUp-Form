@@ -47,10 +47,6 @@ The CSS styles are included within a `<style>` tag in the `<head>` section of th
 2. **Open the HTML File**:
     Open the `index.html` file in your web browser to view and interact with the form.
 
-## Live Demo
-
-You can view a live demo of this project [here](#).
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
